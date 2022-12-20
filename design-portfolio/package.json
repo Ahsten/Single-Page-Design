@@ -1,0 +1,15 @@
+{
+  "name": "design-portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.7",
+    "vite": "^4.0.0"
+  }
+}
