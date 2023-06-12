@@ -11,8 +11,6 @@ This is a solution to the [Single-page design portfolio challenge on Frontend Me
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
